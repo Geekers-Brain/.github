@@ -1,4 +1,10 @@
 [![](https://github.com/Geekers-Brain/.github/blob/main/GB%20Linkedin%20Banner.png)](https://geekersbrain.com/)
+<style>
+span{
+ display:flex;
+ align-items:center;
+ }
+</style>
 # <span align="center"> <img src="https://avatars.githubusercontent.com/u/102204133?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/102204133?s=200&v=4" width="30" height="30" /> **Geekers Brain** </span>
 
 Leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
