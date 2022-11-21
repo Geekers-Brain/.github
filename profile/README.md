@@ -1,6 +1,9 @@
 [![](https://github.com/Geekers-Brain/.github/blob/main/GB%20Linkedin%20Banner.png)](https://geekersbrain.com/)
 
-#  Geekers Brain
+
+
+<img src="./imgpsh_fullsize_anim 1.svg" alt="Alt text" title="Optional title" height="40px" width="40px"> <img src="./Untitled (3).svg" height="40px" width="250px">
+ 
 
 
 Leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
@@ -8,17 +11,17 @@ Leading Web and Mobile App Development Company. We provide innovative digital so
 
 **About Us**:
 
- - 150+ Successfully completed projects
- 
- - 50-60 [Qualified Employees]  Our team has highly-qualified and hard-working employees with one goal of delivering innovative concepts to corporations      like yours.
- 
- - [Award-winning solution] Nominated as INDIA’s 500 MOST PROMISING IT COMPANY – 2020 and INDIA’s 500 STARTUP AWARDS – 2019
- 
- - 150+ Clients around the globe
+- 150+ Successfully completed projects
 
-# Tech: 
+- 50-60 [Qualified Employees] Our team has highly-qualified and hard-working employees with one goal of delivering innovative concepts to corporations like yours.
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) 
+- [Award-winning solution] Nominated as INDIA’s 500 MOST PROMISING IT COMPANY – 2020 and INDIA’s 500 STARTUP AWARDS – 2019
+
+- 150+ Clients around the globe
+
+# Tech:
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -29,16 +32,14 @@ Leading Web and Mobile App Development Company. We provide innovative digital so
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-
-
-# Services: 
+# Services:
 
 ### Engineering the concept of online businesses through our IT services:
 
 We take pride in helping our clients deliver marvelous results when it comes to their projects. From data to performance, we have got you covered.
 
-
 #### 1. Website development
+
 - Web App
 - Custom Website
 - E-Commerce Website
@@ -48,7 +49,8 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - Node.js Development
 - Website Maintenance
 
-#### 2. Mobile development 
+#### 2. Mobile development
+
 - iOS App
 - Android App
 - Hybrid App
@@ -57,6 +59,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - App Maintenance
 
 #### 3. Digital Marketing
+
 - SEO
 - SMM
 - Link Building
@@ -64,7 +67,8 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - Facebook Ads
 - LinkedIn Ads
 
-#### 4. CMS and E-commerce Development 
+#### 4. CMS and E-commerce Development
+
 - Wordpress
 - Shopify
 - Magento
@@ -73,12 +77,14 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - Joomla
 
 #### 5. Product Design
+
 - Product Design
 - UX Design
 - UI Design
 - Branding
 
 #### 6. Graphic Design
+
 - Branding
 - Website Design
 - Mobile App Design
@@ -86,15 +92,17 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - Illustration
 
 #### 7. Ideation and Evaluation -
+
 - Product Design
 - MVP
 - Scoping Session
 - UX Review
 - Research and Development
 
- 
 ## Contact US:
- 
- #### 607 Ithum Tower A, Sector 62 Noida (U.P.) 201309 - India
- #### hello@geekersbrain.com
- #### +91 9319060210
+
+#### 607 Ithum Tower A, Sector 62 Noida (U.P.) 201309 - India
+
+#### hello@geekersbrain.com
+
+#### +91 9319060210
