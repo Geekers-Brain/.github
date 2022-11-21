@@ -1,7 +1,6 @@
 [![](https://github.com/Geekers-Brain/.github/blob/main/GB%20Linkedin%20Banner.png)](https://geekersbrain.com/)
-<div style="display:flex; gap:8px; align-items:center; ">
-<img src="https://avatars.githubusercontent.com/u/102204133?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/102204133?s=200&v=4" width="50" height="50" /> <span align="center" style="font-size:22px; font-weight:600;">Geekers Brain</span>
-</div>
+![AWS](https://avatars.githubusercontent.com/u/102204133?s=200&v=4) Geekers Brain
+
 Leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
 [We design custom product applications & websites for startups and tech companies.]
 
@@ -17,7 +16,7 @@ Leading Web and Mobile App Development Company. We provide innovative digital so
 
 # Tech: 
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) qeh
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
