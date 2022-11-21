@@ -39,7 +39,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 
 
 #### 1. Website development
-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) Web App
+- Web App
 - Custom Website
 - E-Commerce Website
 - MERN Stack Development
