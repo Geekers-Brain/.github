@@ -1,10 +1,10 @@
-
 [![](https://github.com/Geekers-Brain/.github/blob/main/GB%20Linkedin%20Banner.png)](https://geekersbrain.com/)
-### Geekers Brain 
-leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
+[![](https://cdn-ghdlb.nitrocdn.com/jyGdqcwvqlPagIqlgSgmQvNdwgQuwPNZ/assets/static/optimized/rev-5428e5f/wp-content/uploads/2022/06/gb-logo-black.svg)](https://geekersbrain.com/)
+
+Leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
 [We design custom product applications & websites for startups and tech companies.]
 
-**About Us**:
+*About Us*:
 
  - 150+ Successfully completed projects
  
@@ -37,18 +37,62 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 to performance, we’ve got you covered.
 
 #### 1. Website development
+- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) Web App
+- Custom Website
+- E-Commerce Website
+- MERN Stack Development
+- MEAN Stack Development
+- React.js Development
+- Node.js Development
+- Website Maintenance
+
 #### 2. Mobile development 
+- iOS App
+- Android App
+- Hybrid App
+- React Native App
+- Flutter App
+- App Maintenance
+
 #### 3. Digital Marketing
+- SEO
+- SMM
+- Link Building
+- Google Ads
+- Facebook Ads
+- LinkedIn Ads
+
 #### 4. CMS and E-commerce Development 
+- Wordpress
+- Shopify
+- Magento
+- Prestashop
+- Drupal
+- Joomla
+
 #### 5. Product Design
+- Product Design
+- UX Design
+- UI Design
+- Branding
+
 #### 6. Graphic Design
+- Branding
+- Website Design
+- Mobile App Design
+- Logo Design
+- Illustration
+
 #### 7. Ideation and Evaluation -
+- Product Design
+- MVP
+- Scoping Session
+- UX Review
+- Research and Development
+
  
 ## Contact US:
  
  #### 607 Ithum Tower A, Sector 62 Noida (U.P.) 201309 - India
  #### hello@geekersbrain.com
  #### +91 9319060210
-
-
-
