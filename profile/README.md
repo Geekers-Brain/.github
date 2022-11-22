@@ -119,7 +119,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/_Group_.svg" alt="Alt text" height="20px" width="20px"> Product Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/design 1.svg" alt="Alt text" height="20px" width="20px">  UX Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/research 2.svg" alt="Alt text" height="20px" width="20px"> UI Design
--  <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
 
 #### 6. Graphic Design
 
@@ -131,11 +131,11 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 
 #### 7. Ideation and Evaluation -
 
-- Product Design
-- MVP
-- Scoping Session
-- UX Review
-- Research and Development
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/creative-idea-bulb 1.svg" alt="Alt text" height="20px" width="20px"> Product Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/development 1.svg" alt="Alt text" height="20px" width="20px"> MVP
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/dashboard 1.svg" alt="Alt text" height="20px" width="20px"> Scoping Session
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/faq 1.svg" alt="Alt text" height="20px" width="20px"> UX Review
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/research (2) 2.svg" alt="Alt text" height="20px" width="20px"> Research and Development
 
 # Contact US:
 
