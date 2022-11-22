@@ -116,18 +116,18 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 
 #### 5. Product Design
 
-- <img src="https://github.com/Geekers-Brain/.github/blob/main/workflow 2.svg" alt="Alt text" height="20px" width="20px"> Product Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/_Group_.svg" alt="Alt text" height="20px" width="20px"> Product Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/design 1.svg" alt="Alt text" height="20px" width="20px">  UX Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/research 2.svg" alt="Alt text" height="20px" width="20px"> UI Design
 -  <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
 
 #### 6. Graphic Design
 
-- Branding
-- Website Design
-- Mobile App Design
-- Logo Design
-- Illustration
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Website Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Mobile App Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Logo Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Illustration
 
 #### 7. Ideation and Evaluation -
 
