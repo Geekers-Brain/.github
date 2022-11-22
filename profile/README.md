@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Geekers-Brain/.github/blob/main/imgpsh_fullsize_anim%201.svg" alt="Alt text" title="Optional title" height="40px" width="40px"> <img src="https://github.com/Geekers-Brain/.github/blob/main/Untitled%20(3).svg" height="40px" width="250px">
  
-
+Geekers Brain is a software development and software consultancy company founded in 2018. Geekers Brain builds a digital product that let people do things differently, Share your challenge with us, and we’ll work with you to deliver a revolutionary digital product.
 
 Leading Web and Mobile App Development Company. We provide innovative digital solutions to businesses across the world.
 [We design custom product applications & websites for startups and tech companies.]
