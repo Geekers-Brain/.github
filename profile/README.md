@@ -124,10 +124,10 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 #### 6. Graphic Design
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
-- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Website Design
-- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Mobile App Design
-- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Logo Design
-- <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Illustration
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/website-design 1.svg" alt="Alt text" height="20px" width="20px"> Website Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/mobile-settings 1.svg" alt="Alt text" height="20px" width="20px"> Mobile App Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/graphic-designing 2.svg" alt="Alt text" height="20px" width="20px"> Logo Design
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/property-price 1.svg" alt="Alt text" height="20px" width="20px"> Illustration
 
 #### 7. Ideation and Evaluation -
 
