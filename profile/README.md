@@ -76,7 +76,7 @@ Leading Web and Mobile App Development Company. We provide innovative digital so
 
 We take pride in helping our clients deliver marvelous results when it comes to their projects. From data to performance, we have got you covered.
 
-#### 1. Website development
+### 1. Website development
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/_Group_.svg" alt="Alt text" height="20px" width="20px"> Web App
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/custom (1) 1.svg" alt="Alt text" height="20px" width="20px"> Custom Website
@@ -87,7 +87,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/node-js 1.svg" alt="Alt text" height="20px" width="20px"> Node.js Development
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/web-configuration 1.svg" alt="Alt text" height="20px" width="20px"> Website Maintenance
 
-#### 2. Mobile development
+### 2. Mobile development
 
 -  <img src="https://github.com/Geekers-Brain/.github/blob/main/IOS App.svg" alt="Alt text" height="20px" width="20px">     iOS App
 -  <img src="https://github.com/Geekers-Brain/.github/blob/main/Android App.svg" alt="Alt text" height="20px" width="20px"> Android App
@@ -96,7 +96,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/flutter app.svg" alt="Alt text" height="20px" width="20px">  Flutter App
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/App Maintaince.svg" alt="Alt text" height="20px" width="20px">  App Maintenance
 
-#### 3. Digital Marketing
+### 3. Digital Marketing
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/rocket 1.svg" alt="Alt text" height="20px" width="20px"> SEO
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/announcement 1.svg" alt="Alt text" height="20px" width="20px"> SMM
@@ -105,7 +105,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 -  <img src="https://github.com/Geekers-Brain/.github/blob/main/chats-circle 1.svg" alt="Alt text" height="20px" width="20px"> Facebook Ads
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/ads 1.svg" alt="Alt text" height="20px" width="20px"> LinkedIn Ads
 
-#### 4. CMS and E-commerce Development
+### 4. CMS and E-commerce Development
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/wordpress 1.svg" alt="Alt text" height="20px" width="20px"> Wordpress
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/shopify 1.svg" alt="Alt text" height="20px" width="20px"> Shopify
@@ -114,14 +114,14 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/drupal 2.svg" alt="Alt text" height="20px" width="20px"> Drupal
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/joomla 2.svg" alt="Alt text" height="20px" width="20px"> Joomla
 
-#### 5. Product Design
+### 5. Product Design
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/_Group_.svg" alt="Alt text" height="20px" width="20px"> Product Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/design 1.svg" alt="Alt text" height="20px" width="20px">  UX Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/research 2.svg" alt="Alt text" height="20px" width="20px"> UI Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
 
-#### 6. Graphic Design
+### 6. Graphic Design
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/branding 1.svg" alt="Alt text" height="20px" width="20px"> Branding
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/website-design 1.svg" alt="Alt text" height="20px" width="20px"> Website Design
@@ -129,7 +129,7 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/graphic-designing 2.svg" alt="Alt text" height="20px" width="20px"> Logo Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/property-price 1.svg" alt="Alt text" height="20px" width="20px"> Illustration
 
-#### 7. Ideation and Evaluation -
+### 7. Ideation and Evaluation -
 
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/creative-idea-bulb 1.svg" alt="Alt text" height="20px" width="20px"> Product Design
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/development 1.svg" alt="Alt text" height="20px" width="20px"> MVP
