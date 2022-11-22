@@ -78,14 +78,14 @@ We take pride in helping our clients deliver marvelous results when it comes to 
 
 #### 1. Website development
 
-- Web App
-- Custom Website
-- E-Commerce Website
-- MERN Stack Development
-- MEAN Stack Development
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/_Group_.svg" alt="Alt text" height="20px" width="20px"> Web App
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/custom (1) 1.svg" alt="Alt text" height="20px" width="20px"> Custom Website
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/shopping-website 4.svg" alt="Alt text" height="20px" width="20px"> E-Commerce Website
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/Group.svg" alt="Alt text" height="20px" width="20px"> MERN Stack Development
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/angular 1.svg" alt="Alt text" height="20px" width="20px"> MEAN Stack Development
 - <img src="https://github.com/Geekers-Brain/.github/blob/main/Group.svg" alt="Alt text" height="20px" width="20px">  React.js Development
-- Node.js Development
-- Website Maintenance
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/node-js 1.svg" alt="Alt text" height="20px" width="20px"> Node.js Development
+- <img src="https://github.com/Geekers-Brain/.github/blob/main/web-configuration 1.svg" alt="Alt text" height="20px" width="20px"> Website Maintenance
 
 #### 2. Mobile development
 
